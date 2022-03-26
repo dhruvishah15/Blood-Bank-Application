@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="title_activity_second">Second</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="blood_group">
+        <item>Select</item>
+        <item>A\+</item>
+        <item>A\-</item>
+        <item>B\+</item>
+        <item>B\-</item>
+        <item>AB\+</item>
+        <item>AB\-</item>
+        <item>A1\+</item>
+        <item>A1\-</item>
+        <item>A1B\+</item>
+        <item>A1B\-</item>
+        <item>A2\+</item>
+        <item>A2\-</item>
+        <item>A2B\+</item>
+        <item>A2B\-</item>
+        <item>O\+</item>
+        <item>O\-</item>
+        <item>Don\'t Know</item>
+        <item>Other</item>
+    </string-array>
+</resources>
